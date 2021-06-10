@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Name's Leonardo, I'm 41 brazilian guy .
+Name's Leonardo, I'm 41 brazilian guy
 
 Stuff I may know about:
 java
