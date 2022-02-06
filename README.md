@@ -24,18 +24,12 @@ I'm currently learning Spring Framework.
 </div>
 
 Stuff I may know about:
-- java
-- python
-- git
-- eclipse
-- spring
-- REST services
-- windows (duh)
-- gnu/linux (ubuntu)
-- Data Science
-- SQL
-- Angular
-- HTML/CSS
+- java             - python 
+- git              - eclipse
+- spring           - REST services
+- windows (duh)    - gnu/linux (ubuntu)
+- Data Science     - SQL
+- Angular          - HTML/CSS
 - PHP
   
   <a href="https://www.linkedin.com/in/leonardo-pereira-empreendedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
