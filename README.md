@@ -26,14 +26,8 @@ I'm currently learning Spring Framework.
 </div>
 
 Stuff I know:
-- java  
-- kotlin  
-- python 
-- git              
-- eclipse
-- spring           
-- REST services
-- SQL              
+
+- java  - kotlin  - python - git - eclipse - spring  - REST services - SQL           
 - React   
 - Angular          
 - HTML/CSS
