@@ -27,7 +27,7 @@ My favority framwerk ? Spring Framework.
 
 Stuff I know:
 
-- java  - kotlin  - python - git - eclipse - spring  - REST services - SQL  - React   - Angular  - HTML/CSS
+- java  - kotlin  - python - spring  - REST services - SQL  - React   - Angular  - HTML/CSS
 
   
   <a href="https://www.linkedin.com/in/leonardo-pereira-empreendedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
