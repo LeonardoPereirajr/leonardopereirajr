@@ -11,6 +11,10 @@ My favority framwerk ? Spring Framework.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopereirajr&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
+## CONTRIBUIÇÕES 2023
+![image](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/8190fc47-b1d3-4389-8ed1-8af25ad2f31a)
+
+
   <div style="display: inline_block"><br>
     <img align="center" alt="Leo-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
