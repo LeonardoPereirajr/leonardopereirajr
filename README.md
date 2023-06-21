@@ -2,7 +2,7 @@
 
 My Name's Leonardo, I'm 43 brazilian guy
 I'm Currently working on Java , Kotlin and ReactJS.
-My favority framwerk ? Spring Framework.
+
 
 <div align="center">
   <a href="https://github.com/leonardopereirajr">
