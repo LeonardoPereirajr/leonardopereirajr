@@ -12,7 +12,8 @@ I'm Currently working on Java , Kotlin and ReactJS.
 </div>
 
 ## CONTRIBUIÇÕES 2023 - Projetos da Ambisis
-![image](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/8190fc47-b1d3-4389-8ed1-8af25ad2f31a)
+![image](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/4b27d62a-6fef-40ec-aa05-b700d715f0b3)
+
 
 
   <div style="display: inline_block"><br>
