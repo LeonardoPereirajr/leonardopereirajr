@@ -1,7 +1,6 @@
 ### Olá!
 
-My Name's Leonardo, I'm 43 brazilian guy
-I'm Currently working on Java , Kotlin and ReactJS.
+I'm Currently working on Java , Kotlin , Javascript and Typescript.
 
 
 <div align="center">
