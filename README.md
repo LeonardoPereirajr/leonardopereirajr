@@ -29,12 +29,14 @@ I'm Currently working on Java , Kotlin , Javascript and Typescript.
     <img align="center" alt="Leo-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
     <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
     <img align="center" alt="Leo-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  />
+    <img align="center" alt="Leo-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/typescript-original.svg"  />
+    <img align="center" alt="Leo-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/javascript-original.svg"  />
   
 </div>
 
 Stuff I know:
 
-- java  - kotlin  - python - spring  - REST services - SQL  - React   - Angular  - HTML/CSS
+- java  - kotlin  - Typescript - Javascript - Python - spring  - REST services - SQL  - React   - Angular  - HTML/CSS
 
   
   <a href="https://www.linkedin.com/in/leonardo-pereira-empreendedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
