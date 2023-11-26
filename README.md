@@ -1,6 +1,6 @@
 ### Olá!
 
-I'm Currently working on Java , Kotlin , Javascript and Typescript.
+I'm Currently working on Java , Kotlin , Python, Javascript and Typescript.
 
 
 <div align="center">
