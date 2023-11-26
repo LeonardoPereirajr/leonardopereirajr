@@ -28,10 +28,9 @@ I'm Currently working on Java , Kotlin , Javascript and Typescript.
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Leo-Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
     <img align="center" alt="Leo-React" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-    <img align="center" alt="Leo-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  />
-    <img align="center" alt="Leo-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/typescript-original.svg"  />
-    <img align="center" alt="Leo-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/javascript-original.svg"  />
-  
+    <img align="center" alt="Leo-Kotlin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  />  
+    <img align="center" alt="Leo-Typescript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Leo-Javascript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />         
 </div>
 
 Stuff I know:
