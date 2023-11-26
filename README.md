@@ -11,8 +11,8 @@ I'm Currently working on Java , Kotlin , Javascript and Typescript.
 </div>
 
 ## CONTRIBUIÇÕES 2023 - Projetos da Ambisis
-![image](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/8f579e9c-f996-4757-b2c2-56b0931b5093)
 
+![Screenshot_2](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/b11f21f3-c729-4b75-b707-4e5458b3be88)
 
 
 
