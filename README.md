@@ -10,6 +10,10 @@ I'm Currently working on Java , Kotlin , Python, Javascript and Typescript.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopereirajr&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
+## CONTRIBUIÇÕES 2024 - Projetos da Cloudpark - Gestão de estacionamentos
+
+![Capturar](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/6198d5a7-45cd-431c-a5b0-454ce0205240)
+
 ## CONTRIBUIÇÕES 2023 - Projetos da Ambisis
 
 ![Screenshot_2](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/b11f21f3-c729-4b75-b707-4e5458b3be88)
