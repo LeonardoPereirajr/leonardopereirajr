@@ -12,7 +12,8 @@ I'm Currently working on Java , Kotlin , Python, Javascript and Typescript.
 
 ## CONTRIBUIÇÕES 2024 - Projetos da Cloudpark - Gestão de estacionamentos
 
-![Capturar](https://github.com/LeonardoPereirajr/leonardopereirajr/assets/30580018/6198d5a7-45cd-431c-a5b0-454ce0205240)
+![cloudpark2024](https://github.com/user-attachments/assets/158162a5-125c-41a8-8eae-3f475e57953b)
+
 
 ## CONTRIBUIÇÕES 2023 - Projetos da Ambisis
 
