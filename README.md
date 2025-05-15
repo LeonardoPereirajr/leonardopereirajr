@@ -1,6 +1,4 @@
-### Olá!
 
-I'm Currently working on Java , Kotlin , Python, Javascript and Typescript.
 
 
 <div align="center">
