@@ -2,6 +2,9 @@
 
 I'm Currently working on Java , Kotlin , Python, Javascript and Typescript.
 
+![image](https://github.com/user-attachments/assets/5b2bb880-2fbf-4096-8d29-5ad4c8f50ced)
+
+
 <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=leonardopereirajr&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true](https://github-readme-stats.vercel.app/api?username=leonardopereirajr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)" style="max-width: 100%;">
 
 
