@@ -2,7 +2,7 @@
 
 I'm Currently working on Java , Kotlin , Python, Javascript and Typescript.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardopereirajr&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=leonardopereirajr&amp;show_icons=true&amp;theme=gruvbox&amp;include_all_commits=true&amp;count_private=true](https://github-readme-stats.vercel.app/api?username=leonardopereirajr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)" style="max-width: 100%;">
 
 
 <div align="center">
