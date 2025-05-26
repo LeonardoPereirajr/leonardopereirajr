@@ -14,6 +14,8 @@ I'm Currently working on Java , Kotlin , Python, Javascript and Typescript.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopereirajr&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
+# Contribuiçoes em Projetos Privados:
+
 ## CONTRIBUIÇÕES 2025 - Projetos da Calcme - Sistemas
 
 ![Calcme-2025](https://github.com/user-attachments/assets/a29d802e-7965-441f-94a2-b34dc4ac7b71)
